@@ -18,6 +18,6 @@ Example:
   
 >> <b>Extract a file:</b>  
 > target image => g:/result.png  
-> Path for extracted file => f: (or f:/myDoc , plz note : don't specify '/' after the path)  
+> Path for extracted file => F: (or f:/myDoc  , plz note : don't specify '/' after the path)  
   
 <b>Note 2 : Use '/' while specifying path. Don't use '\\' </b>
