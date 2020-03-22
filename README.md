@@ -10,7 +10,7 @@ iii) Tkinter (Optional : can also run on CLI)
 python index.py  
 <b>Note : You can directly run steganography.py file for executing program in CLI mode => python steganography.py</b>  
   
-EX:   
+Example:   
 >> <b>Embed a file:</b>  
 > Path for the resultant image => g:/result.png (Here result.png is name of the new image containing document)  
 > Path for the source image => g:/Sagar/Photos/DSC_.jpg  
